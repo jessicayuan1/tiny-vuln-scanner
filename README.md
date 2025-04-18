@@ -37,4 +37,3 @@ $ python scanner.py sample_code/vulnerable_example.py
 [!] Command Injection via `subprocess.call` on line 8
 [!] Unsafe Deserialization via `pickle.load` on line 11
 [!] Code Execution via `exec` on line 13
-PS C:\Users\jessi\OneDrive\Documents\tiny-vuln-scanner> 
